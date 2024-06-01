@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Attendance</string>
+    <string name="dailypayment">দৈনিক বেতন</string>
+    <string name="dailypaymen" translatable="false"> মোট বেতন =</string>
+    <string name="dailypayme" translatable="false"> বেতন =</string>
+    <string name="date">তারিখ</string>
+    <string name="_12" translatable="false">00/00/0000</string>
+    <string name="_11" translatable="false">0000</string>
+    <string name="banner_ad_unit_id" translatable="false">ca-app-pub-9769750994850391/7307972663</string>
+
+</resources>
